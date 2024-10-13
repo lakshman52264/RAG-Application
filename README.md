@@ -1,8 +1,7 @@
 # RAG Application using RAG , OpenAi and chromaDB
 
 
-
-1. run this command to install dependenies in the `requirements.txt` file. 
+##run this command to install dependenies in the `requirements.txt` file. 
 
 ```python
 pip install -r requirements.txt
